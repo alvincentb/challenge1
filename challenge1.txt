@@ -1,1 +1,1 @@
-Hello world, I'm ${Al}
+Hello world, I'm Al
